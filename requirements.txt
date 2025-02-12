@@ -1,4 +1,3 @@
 streamlit
 networkx
 nltk
-theka.py
